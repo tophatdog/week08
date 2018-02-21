@@ -1,16 +1,8 @@
-body {
-  background-color: black;
-  color  : white;
+.class01 {
+  height: 100%;
+  width: 100%;
 }
+.class02 {
+background-color: green;
 
-div {
-  background-color: white;
-  color : black;
-  margin : auto;
-  width : 80%;
-}
-
-h1 {
-  padding : 50px
-  letter-space : 5px
 }
